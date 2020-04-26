@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Safty Table" language="en" table="x_475383_safety_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Safty Table</label>
+            <language>en</language>
+            <name>x_475383_safety_table</name>
+            <plural>Safty Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-24 14:28:01</sys_created_on>
+            <sys_id>b6bd253e1b94501011c21067bc4bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Safty Table</sys_name>
+            <sys_package display_value="Safety" source="x_475383_safety">071ce97e1b54501011c21067bc4bcb69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">071ce97e1b54501011c21067bc4bcb69</sys_scope>
+            <sys_update_name>sys_documentation_x_475383_safety_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-24 14:28:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

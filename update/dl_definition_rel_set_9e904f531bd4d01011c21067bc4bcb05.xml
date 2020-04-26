@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="INSERT_OR_UPDATE">
+        <always_replace>true</always_replace>
+        <dl_definition display_value="Inspector lookup">fd30c7531bd4d01011c21067bc4bcb46</dl_definition>
+        <matcher_table>x_475383_safety_inspector_lookup_rule</matcher_table>
+        <matcher_table_field>inspector</matcher_table_field>
+        <source_table>x_475383_safety_issue</source_table>
+        <source_table_field>inspector</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-26 09:47:33</sys_created_on>
+        <sys_id>9e904f531bd4d01011c21067bc4bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inspector</sys_name>
+        <sys_package display_value="Safety" source="x_475383_safety">071ce97e1b54501011c21067bc4bcb69</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">071ce97e1b54501011c21067bc4bcb69</sys_scope>
+        <sys_update_name>dl_definition_rel_set_9e904f531bd4d01011c21067bc4bcb05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-26 09:47:33</sys_updated_on>
+    </dl_definition_rel_set>
+</record_update>
